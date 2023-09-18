@@ -6,6 +6,5 @@ K-NN algorithm stores all the available data and classifies a new data point bas
 K-NN algorithm can be used for Regression as well as for Classification but mostly it is used for the Classification problems.
 K-NN is a non-parametric algorithm, which means it does not make any assumption on underlying data.
 It is also called a lazy learner algorithm because it does not learn from the training set immediately instead it stores the dataset and at the time of classification, it performs an action on the dataset.
-KNN algorithm at the training phase just stores the dataset and when it gets new data, then it classifies that data into a category that is much similar to the new data.
-
-                                            ![image](https://github.com/Shaikh-Faisal-Aftab/KNN_Assignment/assets/132913620/7a879210-f369-464a-8c38-413de528ef59)
+KNN algorithm at the training phase just stores the dataset and when it gets new data, then it classifies that data into a category that is much similar to the new data
+![image](https://github.com/Shaikh-Faisal-Aftab/KNN_Assignment/assets/132913620/7a879210-f369-464a-8c38-413de528ef59)
